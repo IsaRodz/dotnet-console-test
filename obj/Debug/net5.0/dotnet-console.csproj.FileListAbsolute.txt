@@ -1,0 +1,17 @@
+/home/isaac/Code/dotnet-console/bin/Debug/net5.0/dotnet-console
+/home/isaac/Code/dotnet-console/bin/Debug/net5.0/dotnet-console.deps.json
+/home/isaac/Code/dotnet-console/bin/Debug/net5.0/dotnet-console.runtimeconfig.json
+/home/isaac/Code/dotnet-console/bin/Debug/net5.0/dotnet-console.runtimeconfig.dev.json
+/home/isaac/Code/dotnet-console/bin/Debug/net5.0/dotnet-console.dll
+/home/isaac/Code/dotnet-console/bin/Debug/net5.0/ref/dotnet-console.dll
+/home/isaac/Code/dotnet-console/bin/Debug/net5.0/dotnet-console.pdb
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/dotnet-console.csproj.AssemblyReference.cache
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/dotnet-console.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/dotnet-console.AssemblyInfoInputs.cache
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/dotnet-console.AssemblyInfo.cs
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/dotnet-console.csproj.CoreCompileInputs.cache
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/dotnet-console.dll
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/ref/dotnet-console.dll
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/dotnet-console.pdb
+/home/isaac/Code/dotnet-console/obj/Debug/net5.0/dotnet-console.genruntimeconfig.cache
+/home/isaac/Code/dotnet-console/bin/Debug/net5.0/Newtonsoft.Json.dll
